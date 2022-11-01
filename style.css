@@ -32,3 +32,8 @@ h1 {
   h8 {
     font-size: 30px;
   }
+
+  h9 { font-family: arial; font-size: 30px;}
+
+  .DevOps.jpg { width: 200px;
+    height: 300px;}
